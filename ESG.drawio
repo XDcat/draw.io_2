@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T13:22:46.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1tujqXHqtElOWWMTlfmM" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T13:24:08.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="TaxGOqFcua055zpmNH49" version="16.1.0" type="github">
   <diagram id="B2VN1lz7lHse4xvR82cQ" name="Page-5">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-0" />
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-1" parent="VGtEhXtMH6EOGDCBlRhS-0" />
@@ -51,16 +51,22 @@
           <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-21" value="采矿收益" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="VGtEhXtMH6EOGDCBlRhS-1" source="VGtEhXtMH6EOGDCBlRhS-8" target="VGtEhXtMH6EOGDCBlRhS-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.1502" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-8" value="采矿" style="ellipse;whiteSpace=wrap;html=1;" parent="VGtEhXtMH6EOGDCBlRhS-1" vertex="1">
           <mxGeometry x="705" y="410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-22" value="打捞收益" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="VGtEhXtMH6EOGDCBlRhS-1" source="VGtEhXtMH6EOGDCBlRhS-9" target="VGtEhXtMH6EOGDCBlRhS-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.0246" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-29" value="打捞收益" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="VGtEhXtMH6EOGDCBlRhS-1" source="VGtEhXtMH6EOGDCBlRhS-9" target="VGtEhXtMH6EOGDCBlRhS-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.0315" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-9" value="打捞" style="ellipse;whiteSpace=wrap;html=1;" parent="VGtEhXtMH6EOGDCBlRhS-1" vertex="1">
           <mxGeometry x="705" y="530" width="110" height="50" as="geometry" />
@@ -70,7 +76,7 @@
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-28" value="奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VGtEhXtMH6EOGDCBlRhS-27" vertex="1" connectable="0">
           <mxGeometry x="0.2102" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="VGtEhXtMH6EOGDCBlRhS-1" source="VGtEhXtMH6EOGDCBlRhS-39" target="VGtEhXtMH6EOGDCBlRhS-3" edge="1">
@@ -78,7 +84,7 @@
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-31" value="前100名的奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VGtEhXtMH6EOGDCBlRhS-30" vertex="1" connectable="0">
           <mxGeometry x="0.5289" relative="1" as="geometry">
-            <mxPoint x="78" y="48" as="offset" />
+            <mxPoint x="98" y="68" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="VGtEhXtMH6EOGDCBlRhS-1" source="VGtEhXtMH6EOGDCBlRhS-10" target="VGtEhXtMH6EOGDCBlRhS-39" edge="1">
@@ -154,7 +160,7 @@
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-42" value="前100名的奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VGtEhXtMH6EOGDCBlRhS-41" vertex="1" connectable="0">
           <mxGeometry x="-0.464" y="-2" relative="1" as="geometry">
-            <mxPoint x="8" as="offset" />
+            <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VGtEhXtMH6EOGDCBlRhS-39" value="&lt;span&gt;特殊事件：试炼获胜前100名&lt;/span&gt;" style="shape=delay;whiteSpace=wrap;html=1;gradientColor=none;" parent="VGtEhXtMH6EOGDCBlRhS-1" vertex="1">
