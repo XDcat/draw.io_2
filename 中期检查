@@ -1,63 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T07:59:19.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="HYnQfbiMWZhMxCdqR9-2" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T08:00:29.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="_HAFPZcyBBPz4mPwh3L-" version="20.2.3" type="github">
   <diagram id="1Xn16ls8HQcbvQcJtR_V" name="第 1 页">
     <mxGraphModel dx="2062" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aWhf9_9DuC4cdsGvEOAd-16" value="Create Pipeline" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="490" height="125" as="geometry" />
+        </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-1" target="aWhf9_9DuC4cdsGvEOAd-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-1" value="Create Repo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="60" y="380" width="220" height="60" as="geometry" />
+          <mxGeometry x="60" y="380" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-2" target="aWhf9_9DuC4cdsGvEOAd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-2" value="Git &lt;br style=&quot;font-size: 20px;&quot;&gt;Pull, Commit, Push" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="308" y="380" width="220" height="60" as="geometry" />
+          <mxGeometry x="308" y="380" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aWhf9_9DuC4cdsGvEOAd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-4" target="aWhf9_9DuC4cdsGvEOAd-8">
+        <mxCell id="aWhf9_9DuC4cdsGvEOAd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-4" target="aWhf9_9DuC4cdsGvEOAd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aWhf9_9DuC4cdsGvEOAd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-4" target="aWhf9_9DuC4cdsGvEOAd-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="440" />
-              <mxPoint x="590" y="530" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="aWhf9_9DuC4cdsGvEOAd-4" value="Create &lt;br&gt;Build Pipeline" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="557" y="380" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aWhf9_9DuC4cdsGvEOAd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-4" target="aWhf9_9DuC4cdsGvEOAd-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="440" />
-              <mxPoint x="590" y="610" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="aWhf9_9DuC4cdsGvEOAd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-6" target="aWhf9_9DuC4cdsGvEOAd-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aWhf9_9DuC4cdsGvEOAd-4" value="Create Pipeline" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="557" y="380" width="220" height="60" as="geometry" />
+        <mxCell id="aWhf9_9DuC4cdsGvEOAd-6" value="Create &lt;br&gt;Release Pipeline" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="805" y="380" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-8" target="aWhf9_9DuC4cdsGvEOAd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-8" value="PR, Check In" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="810" y="380" width="220" height="60" as="geometry" />
+          <mxGeometry x="1053" y="380" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="aWhf9_9DuC4cdsGvEOAd-10" target="aWhf9_9DuC4cdsGvEOAd-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-10" value="Release Website" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1059" y="380" width="220" height="60" as="geometry" />
+          <mxGeometry x="1302" y="380" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWhf9_9DuC4cdsGvEOAd-14" value="Redirect To Website" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1307" y="380" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aWhf9_9DuC4cdsGvEOAd-17" value="Create Build Pipeline" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="610" y="500" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aWhf9_9DuC4cdsGvEOAd-18" value="Create Release Pipeline" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="613" y="580" width="220" height="60" as="geometry" />
+          <mxGeometry x="1550" y="380" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
