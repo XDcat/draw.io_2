@@ -1208,7 +1208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jDVLdFzvoArG6VTna1RH" name="状态图">
-    <mxGraphModel dx="2279" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1708" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1877,7 +1877,7 @@
         </mxCell>
         <mxCell id="JV4PaBPiTctjgXJjcDnT-26" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JV4PaBPiTctjgXJjcDnT-25">
           <mxGeometry x="-0.275" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JV4PaBPiTctjgXJjcDnT-27" value="下线审核中&lt;div&gt;offline reviewing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -1896,10 +1896,18 @@
         <mxCell id="JV4PaBPiTctjgXJjcDnT-30" value="下线审核通过&lt;div&gt;offline review pass&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1250" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JV4PaBPiTctjgXJjcDnT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JV4PaBPiTctjgXJjcDnT-32">
+        <mxCell id="JV4PaBPiTctjgXJjcDnT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="JV4PaBPiTctjgXJjcDnT-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="917" y="2300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JV4PaBPiTctjgXJjcDnT-35" value="撤销下线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JV4PaBPiTctjgXJjcDnT-31">
+          <mxGeometry x="-0.4676" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JV4PaBPiTctjgXJjcDnT-33" value="再次审批" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JV4PaBPiTctjgXJjcDnT-32" target="JV4PaBPiTctjgXJjcDnT-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JV4PaBPiTctjgXJjcDnT-32" value="下线审核不通过&lt;div&gt;offline review fail&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1060" y="2340" width="120" height="60" as="geometry" />
