@@ -511,7 +511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v2-调整样式" id="vzvRGiTsm51UBqKF788t">
-    <mxGraphModel dx="1678" dy="-645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2590" dy="-83" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vRKiVDBRfY_Gp4fm2Q4S-0" />
         <mxCell id="vRKiVDBRfY_Gp4fm2Q4S-1" parent="vRKiVDBRfY_Gp4fm2Q4S-0" />
@@ -575,7 +575,7 @@
         <mxCell id="vRKiVDBRfY_Gp4fm2Q4S-21" value="上下文挖掘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1;labelBackgroundColor=none;rounded=0;fontColor=#46495D;" parent="vRKiVDBRfY_Gp4fm2Q4S-1" vertex="1">
           <mxGeometry x="-565" y="2460" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vRKiVDBRfY_Gp4fm2Q4S-22" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;RAG&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fillColor=light-dark(#9fe0f6, #384c32);strokeColor=light-dark(#588dc8, #6a7a8f);fontColor=#46495D;shadow=1;" parent="vRKiVDBRfY_Gp4fm2Q4S-1" vertex="1">
+        <mxCell id="vRKiVDBRfY_Gp4fm2Q4S-22" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;RAG&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fillColor=light-dark(#9fe0f6, #384c32);strokeColor=light-dark(#588dc8, #6a7a8f);fontColor=#46495D;shadow=1;fontStyle=0" parent="vRKiVDBRfY_Gp4fm2Q4S-1" vertex="1">
           <mxGeometry x="-180" y="2440" width="980" height="95" as="geometry" />
         </mxCell>
         <mxCell id="vRKiVDBRfY_Gp4fm2Q4S-23" value="工具集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;labelBackgroundColor=none;verticalAlign=bottom;fontStyle=0;fillColor=light-dark(#9fe0f6, #384c32);strokeColor=light-dark(#588dc8, #6a7a8f);fontColor=#46495D;shadow=1;" parent="vRKiVDBRfY_Gp4fm2Q4S-1" vertex="1">
