@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="26.0.16" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="26.0.16" pages="4">
   <diagram name="第 1 页" id="klyBhbM0i1vfqk_ea_nq">
     <mxGraphModel dx="3569" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -793,6 +793,56 @@
             <mxPoint x="278" y="2330" as="sourcePoint" />
             <mxPoint x="278" y="2299" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2XCB9xaKjWAoBEsMlQmV" name="第 4 页">
+    <mxGraphModel dx="2893" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GYPejZX3AhSUnt20A7C_-1" value="System Prompt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-2" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="390" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-3" value="Dynamic Prompt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-4" value="例如：项目背景，使用的框架等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="245" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-5" value="需要 ab test 的mock吗？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-6" value="需要静态方法的mock吗？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-7" value="Fill Code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-8" value="Fill Code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-9" value="Base Prompt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="650" y="157.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-10" value="Fill Code and Question" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="570" y="232.5" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-11" value="Format Tool" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="570" y="302.5" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-12" value="Judge Fill Info" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="570" y="382.5" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-13" value="Fill Dynamic Prompt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="570" y="452.5" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GYPejZX3AhSUnt20A7C_-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="20" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
